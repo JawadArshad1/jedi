@@ -1,0 +1,159 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand{
+    color:red !important;
+    
+    
+}
+
+.navbar-brand{
+    font-style: italic !important;  
+}
+.heading {
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color:red;
+
+    
+}
+.navbar i{
+    color: grey;
+}
+.bg-dark{
+ padding: 0px;
+}
+.heading hr{
+    width: 80px;
+    height: 3px;
+}
+.heading h1{
+    font-style: italic;
+    font-weight: bold;
+    color: #fff;
+}
+.nav-item i{
+    padding-right: 10px;
+
+}
+.nav-item a{
+    color: #fff !important;
+}
+.nav-link{
+    padding: 15px;
+}
+.nav-item a:hover{
+background-color: red !important;
+    transition: 0.5s;
+
+}
+.heading h1{
+    padding: 30px 30px; 
+}
+nav{
+    border-bottom:5px solid red;
+}
+.navbar-brand i{
+    padding-right:10px ;
+}
+
+.text_1 i{
+font-size: 40px;
+color: red;
+
+}
+.text_1{
+    text-align: center;
+    padding: 40px 10px;
+   
+}
+.borderr{
+    padding: 50px 0px;
+    border-bottom: 5px solid red;
+}
+.key_list ul{
+    list-style: none;
+    line-height: 2;
+}
+.key_list ul li::before{
+    content:"\2713";
+    color : red;
+    font-weight: bold;
+    width: 3rem;
+    margin-right: 5px;
+}
+.card{
+    display: flex !important;
+  margin: 40px 0px;
+}
+.card:hover{
+    box-shadow: 2px 4px 6px red;
+    margin-top: 20px;
+    transition: 0.5s;
+}
+.card img{
+    padding: 5px;
+}
+.footer_two span{
+    color: red;
+}
+.footer_two i{
+    padding-right: 10px;
+}
+.footer_three i{
+    padding-right: 10px;
+    color: red;
+}
+.footer_three h2:hover{
+    font-style: italic;
+    text-shadow: 2px 4px 6px red;
+}
+.footer_two h3:hover{
+    font-style: italic;
+    text-shadow: 2px 4px 6px red;
+}
+.footer_one h3:hover{
+    font-style: italic;
+    text-shadow: 2px 4px 6px red;
+
+}
+.background{
+    background-color: black;
+    padding: 50px 0px;
+    color:grey;
+}
+.borderrr{
+    border-bottom: 5px solid red;
+}
+.sample a{
+    text-decoration: none;
+    border-right: 2px solid grey;
+    padding: 0px 20px;
+    color: gray;
+}
+.copy a{
+    text-decoration: none;
+color: gray;
+}
+/* .content{
+    padding: 5px 0px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.Top_content{
+    background-color:grey;
+} */
+form{
+    padding: 20px;
+}
+.text_1 i{
+    margin-bottom: 40px;
+    height: 30px;
+}
+.login_button{
+    justify-content: end;
+}
