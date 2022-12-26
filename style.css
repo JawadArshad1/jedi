@@ -157,3 +157,10 @@ form{
 .login_button{
     justify-content: end;
 }
+.btn_style{
+    justify-content:space-between;
+}
+.model_top li{
+    list-style: none;
+    margin-left: 2px;
+}
